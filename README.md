@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/C-16537e?style=flat&logo=C&logoColor=white"/>
 
 # 🔧 TOOLS 🔧
-<img src="https://img.shields.io/badge/IntelliJ IDEA-eeeeee?style=flat&logo=IntelliJ IDEA&logoColor=000000"/><img src="https://img.shields.io/badge/Oracle-f4cccc?style=flat&logo=Oracle&logoColor=e90e0e"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-eeeeee?style=flat&logo=IntelliJ IDEA&logoColor=000000"/><img src="https://img.shields.io/badge/Oracle-f4cccc?style=flat&logo=Oracle&logoColor=e90e0e"/><img src="https://img.shields.io/badge/visual studio-eeeeee?style=flat&logo=Visual Studio&logoColor=000000"/>
 
 # HITS ✔
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodDataBase&count_bg=%2379C83D&title_bg=%23D9FF6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
