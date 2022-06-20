@@ -10,7 +10,7 @@
 # 🔧 TOOLS 🔧
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-eeeeee?style=flat&logo=IntelliJ IDEA&logoColor=000000"/>
-<img src="https://img.shields.io/badge/vsCode-eeeeee?style=flat&logo=vsCode&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-eeeeee?style=flat&logo=Visual Studio Code&logoColor=FFB45F"/>
 <img src="https://img.shields.io/badge/Oracle-f4cccc?style=flat&logo=Oracle&logoColor=e90e0e"/>
 <img src="https://img.shields.io/badge/visual studio-eeeeee?style=flat&logo=Visual Studio&logoColor=000000"/>
 
