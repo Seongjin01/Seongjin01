@@ -18,6 +18,6 @@
 # HITS ✔
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodDataBase&count_bg=%2379C83D&title_bg=%23D9FF6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# E-mail ✉
+# E-mail & Contact ✉
 <img src="https://img.shields.io/badge/baeseongjin0311@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=ff1100"/>
 
