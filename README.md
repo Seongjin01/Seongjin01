@@ -3,7 +3,7 @@
 # MY STATS ✍
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin&show_icons=true&theme=radical)
 # ⚡ TECHNICS ⚡
-<img src="https://img.shields.io/badge/MySql-fcf87f?style=flat&logo=MySql&logoColor=082745"/><img src="https://img.shields.io/badge/Java-e69138?style=flat&logo=Java&logoColor=ededed"/>
+<img src="https://img.shields.io/badge/Java-e69138?style=flat&logo=Java&logoColor=ededed"/>
 <img src="https://img.shields.io/badge/JavaScript-B9FF5F?style=flat&logo=JavaScript&logoColor=FFB45F"/>
 <img src="https://img.shields.io/badge/C-16537e?style=flat&logo=C&logoColor=white"/>
 
