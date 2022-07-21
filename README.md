@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Seongjin&fontSize=90)
+<div align='center'>
+  
+  ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Seongjin&fontSize=90)
 
 # MY STATS ✍
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin&show_icons=true&theme=radical)
@@ -21,3 +23,7 @@
 # E-mail & Contact ✉
 <img src="https://img.shields.io/badge/baeseongjin0311@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=ff1100"/>
 
+
+
+</div>
+  
