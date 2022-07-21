@@ -16,6 +16,11 @@
 | ✍ In Practice ✍ |
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=0088CC"/>&ensp;<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=GreenSock&logoColor=black"/>&ensp;<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>|
 
+# 📝 PROJECTS 📝
+    
+|[kotlin으로 만든 lotto 앱](https://github.com/Seongjin01/android_lotto)|[AOS를 이용하여 만든 애니메이션 웹페이지](https://github.com/Seongjin01/My-page)|
+|:---:|:---:|
+
 
 
 </div>
