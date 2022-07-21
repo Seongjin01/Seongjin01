@@ -1,29 +1,21 @@
 <div align='center'>
-  
-  ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Seongjin&fontSize=90)
 
-# MY STATS ✍
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin&show_icons=true&theme=radical)
-# ⚡ TECHNICS ⚡
-<img src="https://img.shields.io/badge/Java-e69138?style=flat&logo=Java&logoColor=ededed"/>
-<img src="https://img.shields.io/badge/JavaScript-B9FF5F?style=flat&logo=JavaScript&logoColor=FFB45F"/>
-<img src="https://img.shields.io/badge/C-16537e?style=flat&logo=C&logoColor=white"/>
+# 🔎 ABOUT ME 🔎
 
-# 🔧 TOOLS 🔧
+|name|birth|age|
+|:---:|:---:|:---:|
+|배성진|2005.03.11|18 years old|
+    
+# 🎓️ MY STATS 🎓️
 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-eeeeee?style=flat&logo=IntelliJ IDEA&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Android Studio-41C1D0?style=flat&logo=Android Studio&logoColor=48F885"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-8DA9CB?style=flat&logo=Visual Studio Code&logoColor=1053A8"/>
-<img src="https://img.shields.io/badge/visual studio-eeeeee?style=flat&logo=Visual Studio&logoColor=000000"/>
-
-
-# HITS ✔
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodDataBase&count_bg=%2379C83D&title_bg=%23D9FF6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# E-mail & Contact ✉
-<img src="https://img.shields.io/badge/baeseongjin0311@gmail.com-ffffff?style=flat&logo=Gmail&logoColor=ff1100"/>
+ |⚡ SKILLS ⚡|
+|:---------------:|
+|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&ensp;<img src="https://img.shields.io/badge/Java-e69138?style=flat-square&logo=Java&logoColor=black"/>&ensp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&ensp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>&ensp;<img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>&ensp;<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>|
+|🔧 TOOLS 🔧|
+|<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&ensp;&ensp;<img src="https://img.shields.io/badge/Visual Studio code-007ACC?style=flat-square&logo=visual Studio code&logoColor=white"/>&ensp;<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>|
+| ✍ In Practice ✍ |
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=0088CC"/>&ensp;<img src="https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=GreenSock&logoColor=black"/>&ensp;<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>|
 
 
 
 </div>
-  
