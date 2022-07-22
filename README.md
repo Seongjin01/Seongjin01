@@ -6,6 +6,13 @@
 |:---:|:---:|:---:|
 |배성진|2005.03.11|18 years old|
     
+  
+🟥 I like coding with Javascript.
+
+🟧 I can design what i want.
+
+🟩 I want to be a nice dev.
+    
 # 🎓️ MY STATS 🎓️
 
  |⚡ SKILLS ⚡|
