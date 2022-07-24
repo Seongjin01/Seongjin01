@@ -1,6 +1,6 @@
 <div align='center'>
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=UI/UX%20DESIGNER%20Text&descAlignY=85&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=UI/UX%20DESIGNER&descAlignY=85&descAlign=60)
 
 # 📝 Most Used Language 📝
 
