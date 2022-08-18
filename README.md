@@ -2,6 +2,12 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=WEB%20Developer&descAlignY=85&descAlign=60)
 
+# 🎤 one-Line Introduce 🎤
+
+```
+안녕하세요, 웹 개발자가 장래희망인 학생 배성진입니다.
+```
+
 # 📝 Most Used Language 📝
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats)
@@ -22,8 +28,9 @@
 
 # 📏 PROJECTS 📏
     
-|[kotlin으로 만든 lotto 앱](https://github.com/Seongjin01/android_lotto)|[AOS를 이용하여 만든 애니메이션 웹페이지](https://github.com/Seongjin01/My-page)|
+|DEVELOPING APP|DEVELOPING WEB|
 |:---:|:---:|
+|[kotlin으로 만든 lotto 앱](https://github.com/Seongjin01/android_lotto)|[AOS를 이용하여 만든 애니메이션 웹페이지](https://github.com/Seongjin01/My-page)|
 
 # 🔎 ABOUT ME 🔎
 
