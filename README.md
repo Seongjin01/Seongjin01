@@ -31,7 +31,7 @@
 |DEVELOPING APP|DEVELOPING WEB|
 |:---:|:---:|
 |[kotlin으로 만든 lotto 앱](https://github.com/Seongjin01/android_lotto)|[AOS를 이용하여 만든 애니메이션 웹페이지](https://github.com/Seongjin01/My-page)|
-|[onllyJS / 노마드코더 클론코딩](
+||[onllyJS / 노마드코더 클론코딩](https://github.com/Seongjin01/JS-only-clonecoding)|
 
 # 🔎 ABOUT ME 🔎
 
