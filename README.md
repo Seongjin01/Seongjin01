@@ -8,6 +8,12 @@
 안녕하세요, 웹 개발자가 장래희망인 학생 배성진입니다.
 ```
 
+# 📌 Career 📌
+
+|:-----:|:-----:|
+|2023.03.07|(주)에프아이솔루션|
+|||
+
 # 📝 Most Used Language 📝
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats)
@@ -38,7 +44,7 @@
 
 |name|birth|age|
 |:---:|:---:|:---:|
-|배성진|2005.03.11|18 years old|
+|배성진|2005.03.11|19 years old|
     
   
 🟥 I like coding with Javascript.
