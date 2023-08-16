@@ -2,10 +2,12 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=WEB%20Developer&descAlignY=85&descAlign=60)
 
-# 🎤 one-Line Introduce 🎤
+# 🎤 Introduce myself 🎤
 
 ```
 안녕하세요, 웹 개발자가 장래희망인 학생 배성진입니다.
+주로 ui쪽을 공부하고 있고, 특히 애니메이션(gsap)을 사용하고 있습니다.
+다른 디자인과 애니메이션을 벤치마킹하여 아이디어를 얻고, 이를 바탕으로 공부하고 있습니다.
 ```
 
 # 📌 Career 📌
