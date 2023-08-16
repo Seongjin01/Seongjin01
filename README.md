@@ -52,11 +52,11 @@
 |배성진|2005.03.11|19 years old|
     
   
-🟥 I like coding with Javascript.
+🟥 I like write code with javascript and that library.
 
-🟧 I can design what i want.
+🟧 I work hard to make the design I want.
 
-🟩 I want to be a nice dev.
+🟩 I want to be a nice developer.
     
 
 
