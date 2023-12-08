@@ -1,4 +1,4 @@
-<div align='center'>
+my<div align='center'>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=WEB%20Developer&descAlignY=85&descAlign=60)
 
@@ -16,7 +16,7 @@
 
 지금까지 다녔던 회사입니다. 열심히 하는만큼 많은 것을 배우고 있고 더 배우고 싶습니다.
 
-|2023.03.07 ~ |(주)에프아이솔루션|인턴|
+|2023.03.07 ~ 2023.11.30|(주)에프아이솔루션|인턴|
 |:---:|:---:|:---:|
 
 
