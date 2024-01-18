@@ -29,7 +29,7 @@ my<div align='center'>
 
 # 🟢 STATS 🟢
 
-[![Anurag's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats)
 
 # 🎓️ MY STATS 🎓️
 
