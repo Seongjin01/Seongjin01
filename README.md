@@ -16,8 +16,11 @@ my<div align='center'>
 
 지금까지 다녔던 회사입니다. 열심히 하는만큼 많은 것을 배우고 있고 더 배우고 싶습니다.
 
-|2023.03.07 ~ 2023.11.30|(주)에프아이솔루션|인턴|
+
+|입사일|퇴사일|회사명|
 |:---:|:---:|:---:|
+|2023.03.07 ~ 2023.11.30|(주)에프아이솔루션|인턴|
+|2024.01.08|~|(주)이액티브|
 
 
 # 📝 Most Used Language 📝
@@ -26,7 +29,7 @@ my<div align='center'>
 
 # 🟢 STATS 🟢
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats)
+[![Anurag's GitHub stats]((https://github-readme-stats.vercel.app/api?username=Seongjin01)](https://github.com/Seongjin01/github-readme-stats))
 
 # 🎓️ MY STATS 🎓️
 
