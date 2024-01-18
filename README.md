@@ -55,7 +55,7 @@ my<div align='center'>
 
 |name|birth|age|
 |:---:|:---:|:---:|
-|배성진|2005.03.11|19 years old|
+|배성진|2005.03.11|20 years old|
     
   
 🟥 I like write code with javascript and that library.
