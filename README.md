@@ -1,4 +1,4 @@
-my<div align='center'>
+<div align='center'>
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=EF5B0C&text=Seongjin01&height=150&fontSize=60&desc=WEB%20Developer&descAlignY=85&descAlign=60)
 
